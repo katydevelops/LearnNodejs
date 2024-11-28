@@ -1,0 +1,1 @@
+There is no Window object or Document object in Node.js as there is no browser; however, there is a Global object and a Process object
